@@ -1,0 +1,5 @@
+Пример моей работы по тестированию веб-форм на сайте MyWish:
+
+Ссылка на чек-листы -   https://docs.google.com/spreadsheets/d/1YAOXYx1_fwkDVKVzKc3WzcGTXKGdr-rGawnf44qrqdA/edit?usp=sharing
+
+Ссылка на баг-репорты -   https://docs.google.com/spreadsheets/d/1dbRhDZ05faQZUvzuJBFrakCxq7-o9VjpxnUUbYqalBU/edit?usp=sharing
